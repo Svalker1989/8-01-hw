@@ -1,3 +1,5 @@
+Conflict commit's graph link
+https://github.com/Svalker1989/8-01-hw/network
 Commit's graph link
 https://github.com/Svalker1989/8-01-hw/network
 .gitignore edited commit link
